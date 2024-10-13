@@ -54,26 +54,6 @@ Reliability|Security|Maintainability|Total
 0d 0h 18min|0d 0h 40min|0d 5h 38min|0d 6h 36min
 
 
-### Metrics Range
-
-\ | Cyclomatic Complexity | Cognitive Complexity | Lines of code per file | Coverage | Comment density (%) | Duplication (%)
-:---|:---:|:---:|:---:|:---:|:---:|:---:
-Min | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | 0.0
-Max | 858.0 | 771.0 | 8805.0 | 0.0 | 63.5 | 45.6
-
-### Volume
-
-Language|Number
----|---
-CSS|1809
-JavaScript|23
-PHP|122
-Python|146
-TypeScript|8805
-HTML|682
-Total|11587
-
-
 ## Issues
 
 ### Issues count by severity and types
